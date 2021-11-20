@@ -1,0 +1,10 @@
+{
+  "entryFile": "src/app.ts",
+  "noImplicitAdditionalProperties": "silently-remove-extras",
+  "controllerPathGlobs": ["src/**/test.controller.ts"],
+  "spec": {
+    "outputDirectory": "dist",
+    "basePath": "/v2",
+    "specVersion": 3
+  }
+}

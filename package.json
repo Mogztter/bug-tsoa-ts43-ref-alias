@@ -1,0 +1,12 @@
+{
+  "name": "bug-tsoa-ts43-ref-alias",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "spec": "tsoa spec"
+  },
+  "dependencies": {
+    "tsoa": "3.14.1",
+    "typescript": "4.2.2"
+  }
+}
